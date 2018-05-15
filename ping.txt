@@ -1,0 +1,12 @@
+
+Disparando globo.com [186.192.90.5] com 32 bytes de dados:
+Resposta de 186.192.90.5: bytes=32 tempo=4ms TTL=249
+Resposta de 186.192.90.5: bytes=32 tempo=3ms TTL=249
+Resposta de 186.192.90.5: bytes=32 tempo=4ms TTL=249
+Resposta de 186.192.90.5: bytes=32 tempo=4ms TTL=249
+
+Estat¡sticas do Ping para 186.192.90.5:
+    Pacotes: Enviados = 4, Recebidos = 4, Perdidos = 0 (0% de
+             perda),
+Aproximar um n£mero redondo de vezes em milissegundos:
+    M¡nimo = 3ms, M ximo = 4ms, M‚dia = 3ms
