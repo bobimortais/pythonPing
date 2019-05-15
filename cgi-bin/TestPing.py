@@ -40,3 +40,5 @@ for value in listFinalPing:
 	
 print('</body>')
 print('</html>')
+
+os.remove('ping.txt')
